@@ -61,15 +61,15 @@
 		</div>
 
 		<div id="selectInput">
+			试卷：
 			<select id="shiJuanList">
 				
 			</select>
-			
+			类型：
 			<select id="typeSelect">
 				<option value="all" selected="selected">
 					全部
 				</option>
-
 				<option value="right">
 					正确
 				</option>
